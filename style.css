@@ -342,6 +342,7 @@ html {
     inset: auto;
     overflow: visible;
     transform: none;
+    display: none;
   }
   
   .w-webflow-badge {
@@ -366,6 +367,7 @@ html {
     inset: auto 12px 12px auto !important;
     overflow: visible !important;
     transform: none !important;
+    display: none;
   }
   
   .w-webflow-badge > img {
@@ -373,6 +375,7 @@ html {
     opacity: 1 !important;
     vertical-align: middle !important;
     display: inline-block !important;
+    display: none;
   }
   
   h1, h2, h3, h4, h5, h6 {
