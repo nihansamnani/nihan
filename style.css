@@ -343,7 +343,7 @@ html {
     overflow: visible;
     transform: none;
     display: none;
-  }
+}
   
   .w-webflow-badge {
     white-space: nowrap;
@@ -368,7 +368,7 @@ html {
     overflow: visible !important;
     transform: none !important;
     display: none;
-  }
+}
   
   .w-webflow-badge > img {
     visibility: visible !important;
@@ -3230,6 +3230,7 @@ html {
     height: 100%;
     position: relative;
     inset: 0%;
+    border-radius: 2vw;
   }
   
   .flex-layout {
